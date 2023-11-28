@@ -1,0 +1,22 @@
+{
+    "education":[
+        {
+            "title": "Jun 2016 - Jun 2019",
+            "cardTitle": "Bachelors of computer applications",
+            "cardSubtitle":"IIMT College, Greater Noida",
+            "cardDetailedText": "CGPA - 6.5",
+            "icon" : {
+                "src": "images/education/iimt.png"
+            }
+        },
+        {
+            "title": "July 2019 - Aug 2021",
+            "cardTitle": "Master of computer applications",
+            "cardSubtitle":"Sharda University",
+            "cardDetailedText": "CGPA - 7.0s",
+            "icon" : {
+                "src": "images/education/sharda.png"
+            }
+        }
+    ]
+}

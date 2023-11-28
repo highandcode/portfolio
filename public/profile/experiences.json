@@ -1,0 +1,35 @@
+{
+    "experiences": [
+        {
+            "title": "Associate Full Stack Developer",
+            "subtitle": "Nybblecore Pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Majorly worked on reactjs, nodejs, MongoDB, Bootstrap",
+                "Build client side and server side components along with logic"
+            ],
+            "dateText": "05/2022 – 09/2023"
+        },
+        {
+            "title": "Full Stack Intern",
+            "subtitle": "Datametricks Consulting Pvt Ltd",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked as a associate full stack intern.",
+                "Tech stack: Reactjs, nodejs, jQuery, Javascript, SQL, Git etc.",
+                "Build authentication and authorisation system using JSON Web Tokern(JWT)"
+            ],
+            "dateText": "02/2022 – 04/2022"
+        },
+        {
+            "title": "React UI Developer",
+            "subtitle": "Pariwar Finance",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed the official website pariwarfin.com",
+                "Gained experience with web development"
+            ],
+            "dateText": "11/2021 – 02/2022"
+        }
+    ]
+}

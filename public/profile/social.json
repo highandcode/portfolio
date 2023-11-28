@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ankit-agrawal-2b8646215/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/highandcode"
+        },
+        {
+            "network" : "email",
+            "href": "ankitagrawaliimt@gmail.com"
+        }
+    ]
+}
