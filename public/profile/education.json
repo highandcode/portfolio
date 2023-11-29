@@ -1,19 +1,22 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Jun 2016 - Jun 2019",
+            "cardTitle": "Bachelors of computer applications",
+            "cardSubtitle":"IIMT College, Greater Noida",
+            "cardDetailedText": "CGPA - 6.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/iimt.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "July 2019 - Aug 2021",
+            "cardTitle": "Master of computer applications",
+            "cardSubtitle":"Sharda University",
+            "cardDetailedText": "CGPA - 7.0s",
+            "icon" : {
+                "src": "images/education/sharda.png"
+            }
         }
     ]
 }
