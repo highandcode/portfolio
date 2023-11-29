@@ -1,9 +1,9 @@
-# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/highandcode/dev-portfolio?color=blue)](https://github.com/highandcode/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=highandcode.dev-portfolio&color=blue)
+# Dev Portfolio  [![GitHub](https://img.shields.io/github/license/highandcode/portfolio?color=blue)](https://github.com/highandcode/portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=highandcode.portfolio&color=blue)
 
 ## A minimal portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/highandcode/dev-portfolio/blob/master/images/dev-portfolio.gif" alt="Dev Portfolio" />
+  <img src="https://github.com/highandcode/portfolio/blob/master/images/portfolio.gif" alt="Dev Portfolio" />
   <br>
 </h2>
 
@@ -43,10 +43,10 @@ From your command line, first clone Dev Portfolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/highandcode/dev-portfolio
+$ git clone https://github.com/highandcode/portfolio
 
 # Move into the repository
-$ cd dev-portfolio
+$ cd portfolio
 
 # Remove the current origin repository
 $ git remote remove origin
@@ -404,7 +404,7 @@ It has 2 keys, *logo* and *sections*.
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/highandcode/dev-portfolio"
+                    "href": "https://github.com/highandcode/portfolio"
                 },
                 {
                     "text": "Live",
@@ -552,7 +552,7 @@ I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
 
 ## Support
 
-If you find a bug, feel free to [open an issue](https://github.com/highandcode/dev-portfolio/issues) in this repository.
+If you find a bug, feel free to [open an issue](https://github.com/highandcode/portfolio/issues) in this repository.
 
 ## License 📄
 
